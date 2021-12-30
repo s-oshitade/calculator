@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Reviewing Express.js by building a simple calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-oshitade/calculator.git"
+  },
+  "keywords": [
+    "express",
+    "calculator"
+  ],
+  "author": "Seun Oshitade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-oshitade/calculator/issues"
+  },
+  "homepage": "https://github.com/s-oshitade/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
